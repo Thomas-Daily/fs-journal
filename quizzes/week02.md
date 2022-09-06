@@ -4,15 +4,20 @@
 <!-- enter you answer in the space below -->
 ```
 
+let, var and const
+
 ```
 **2.** What is the definition of a function?
 <!-- enter you answer in the space below -->
 ```
+It is a sub-program designed to perform a particular task
 
 ```
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
+
+An acronym for five design priciples intended to make designs more understandable.
 
 ```
 **4.** Given this array: 
@@ -22,6 +27,8 @@ let fruit = ['apple', 'banana', 'pineapple',  'orange', 'strawberry']
 What index is the pineapple's current position? How do you know?
 <!-- enter you answer in the space below -->
 ```
+
+[2] because the first on ein the array starts at 0
 
 ```
 **5.** With these two objects: 
@@ -33,11 +40,17 @@ how would you .push the `them` object into the `you` object's array of friends?
 <!-- enter you answer in the space below -->
 ```
 
+you.friends.push[them]
+
 ```
 
 **6.** Give an example of a JavaScript `Conditional`:
 <!-- enter you answer in the space below -->
 ```
+
+if (x >= 4){
+  return ('9')
+}
 
 ```
 **7.** In the `for loop` below, what is the name of the piece belongs inside the empty "______" space? What would you put here to increase `i` by one on every iteration?
@@ -48,25 +61,36 @@ for ( let i = 0; i < arr.length; _______ ) {
 <!-- enter you answer in the space below -->
 ```
 
+[i] + 1
+
 ```
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
 ```
+Document Object Model
+
+it uses Template literals
 
 ```
 
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
 ```
+Primative values, Boolean, Null, undefined, number, bignlt, string, symbol and objects
 
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
 ```
 
+A parameter needs to be met with something specific, but an argument takes a reference and says whether it is true or flase.
+
 ```
 **11.** What is the difference between a `primitive` value and a `reference` value?
 <!-- enter you answer in the space below -->
 ```
+primative - atomic pieces of data
+
+reference - objects the may consist of multiple values
 
 ```
