@@ -29,7 +29,7 @@
 **5.** In a/an _______ coding model, when you call a function, it returns only when the action has finished and stops your program for the time the action takes. Likewise in a/an _______ coding model, multiple things are allowed to happen at one time. When you perform an action, your program continues to run.  Fill in the blanks.
 <!-- enter you answer in the space below -->
 ```
--
+- I dont know, I have to google it 
 ```
 
 **6.** Fill in the missing piece of this snippet of code.
@@ -51,11 +51,11 @@ javaController, JavaController, java
 **8.** The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 <!-- enter you answer in the space below -->
 ```
-
+- request, response
 ```
 **9.** 
 Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 <!-- enter you answer in the space below -->
 ```
-
+- I don't know, I have to google it 
 ```
